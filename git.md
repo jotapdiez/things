@@ -2,8 +2,8 @@
 
 
 ## Proxy:
-´´´git config --global http.proxy http://username:password@host:port´´´
-´´´git config --global https.proxy http://username:password@host:port´´´
+´´´git config --global http.proxy http://u620772:TVD5rhwn2svEllUc\!@bastet-test.corp.cablevision.com.ar:80´´´
+´´´git config --global https.proxy http://u620772:TVD5rhwn2svEllUc\!@bastet-test.corp.cablevision.com.ar:80´´´
 
 ## Actualizar fork (ej.: github)
 ´´´

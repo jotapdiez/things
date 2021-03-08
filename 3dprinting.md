@@ -28,3 +28,7 @@ Print thin walls: Para que imprima partes mas finas que el nozzle (0.4mm en mi c
 
 ## Links:
 - https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/
+
+## External enclosure (SKR 1.3 + Rpi 3b+)
+
+# Conectar las placas por GPIO en lugar de usar USB: https://community.octoprint.org/t/simple-3-wire-serial-connection-from-pi3-to-skr-v1-3-board/10166
